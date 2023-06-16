@@ -1,4 +1,4 @@
 function xss()
   {
-    Alert('Example');
+    alert('Example');
   }
