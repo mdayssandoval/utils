@@ -1,1 +1,4 @@
-Alert('Example');
+function xss()
+  {
+    Alert('Example');
+  }
